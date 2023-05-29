@@ -32,7 +32,7 @@ export default function Navbar() {
                 </a>
               </li>
               <li>
-                <a className="text-white hover:text-gray-300" href="/store">
+                <a className="text-white hover:text-gray-300" href="https://store.bridgesplash.net">
                   Store
                 </a>
               </li>
