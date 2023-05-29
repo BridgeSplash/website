@@ -5,7 +5,7 @@ import Navbar from './navbar/navbar'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'BridgeSplash',
+  title: 'BridgeSplash - Minecraft Network',
   description: 'Minecraft server for the Bridge community',
 }
 

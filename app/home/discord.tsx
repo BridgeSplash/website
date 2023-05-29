@@ -20,6 +20,9 @@ export default function Discord() {
                     height={795}
                     draggable={false}
                 />
+                <a href="https://discord.bridgesplash.net" target="_blank" rel="noreferrer"
+                 className="inline-block bg-yellow-500 hover:bg-yellow-600 text-black font-bold py-2 px-4 rounded"
+                 >Join Us</a>
             </div>
         </section>
     );
