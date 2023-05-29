@@ -11,13 +11,13 @@ export default function Info() {
                     </p>
                 </div>
                 <div className="flex flex-wrap items-center justify-around max-w-4xl mt-6 sm:w-full">
-                    <a href="https://store.bridgesplash.net" className="p-6 mt-6 text-left border w-96 rounded-xl hover:text-blue-600 focus:text-blue-600">
+                    <a href="https://store.bridgesplash.net" target="_blank" rel="noreferrer" className="p-6 mt-6 text-left border w-96 rounded-xl hover:text-blue-600 focus:text-blue-600">
                         <h3 className="text-2xl font-bold">Store &rarr;</h3>
                         <p className="mt-4 text-xl">
                             Check out our new store Items!
                         </p>
                     </a>
-                    <a href="https://discord.bridgesplash.net" className="p-6 mt-6 text-left border w-96 rounded-xl hover:text-blue-600 focus:text-blue-600">
+                    <a href="https://discord.bridgesplash.net" target="_blank" rel="noreferrer" className="p-6 mt-6 text-left border w-96 rounded-xl hover:text-blue-600 focus:text-blue-600">
                         <h3 className="text-2xl font-bold">Discord &rarr;</h3>
                         <p className="mt-4 text-xl">
                             Get latest updates and news!
