@@ -7,7 +7,7 @@ export default function Info() {
                 </p>
                 <div className="flex flex-wrap items-center justify-around max-w-4xl mt-6 sm:w-full pb-6">
                     <p className="mt-4 text-xl">
-                        Get latest updates and news!
+                        We are a new network working on fun and unique gamemodes!
                     </p>
                 </div>
                 <div className="flex flex-wrap items-center justify-around max-w-4xl mt-6 sm:w-full">

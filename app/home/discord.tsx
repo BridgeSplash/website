@@ -9,7 +9,7 @@ export default function Discord() {
                 </p>
                 <div className="flex flex-wrap items-center justify-around max-w-4xl mt-6 sm:w-full pb-6">
                     <p className="mt-4 text-xl">
-                        Get latest updates and news!
+                        Keep up to date with all of out latest news and updates!
                     </p>
                 </div>
                 <Image
