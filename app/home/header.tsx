@@ -5,7 +5,7 @@ import Typewriter from 'typewriter-effect';
 
 export default function Header() {
   return (
-    <header className="text-center text-white w-full pt-8 pb-8">
+    <header className="text-center text-white w-full sm:mt-20 pt-16 lg:mt-16 lg:pt-8  pb-8">
       <div className="flex flex-col items-center justify-end space-y-10">
         <div className="flex justify-center">
           <Image
