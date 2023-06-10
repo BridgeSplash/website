@@ -24,7 +24,7 @@ export default function Header() {
         <div className='text-xl mt-4'>
           <Typewriter
             options={{
-              strings: ['Bridge', "OneBlock", "FFA", "Duels", "SMP", "Wizard Frog"],
+              strings: ['Bridge', "OneBlock", "FFA", "Duels", "SMP", "Wizard Frog", "Cosmetics"],
               autoStart: true,
               loop: true,
               wrapperClassName:"text-4xl"
