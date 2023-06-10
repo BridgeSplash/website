@@ -17,9 +17,9 @@
 
 body{
   background-image: url("/banner.webp");
-  background-size: 'cover';
-  background-repeat: 'no-repeat';
-  background-position: 'center';
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   color: rgb(var(--foreground-rgb));
 }
 
