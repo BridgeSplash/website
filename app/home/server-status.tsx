@@ -1,7 +1,7 @@
 'use client';
 import React, { useEffect, useState } from 'react';
 
-export default function Status({ ip = "bridgesplash.net", port = "25565" }: { ip?: string, port?: string }) {
+export default function Status({ ip = "play.bridgesplash.net", port = "25565" }: { ip?: string, port?: string }) {
     const [playerCount, setPlayerCount] = useState<number | null>(null);
     const [errorMessage, setErrorMessage] = useState<string | null>(null);
 
