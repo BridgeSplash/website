@@ -2,11 +2,14 @@
 import Image from 'next/image';
 import Status from './server-status';
 import Typewriter from 'typewriter-effect';
+import Navbar from '../navbar/navbar';
+
 
 export default function Header() {
   return (
-    <header className="text-center text-white w-full sm:mt-20 pt-16 lg:mt-16 lg:pt-8 pb-8">
-      <div className="flex flex-col items-center justify-end space-y-10">
+    <header className="text-center text-white min-h-screen w-full">
+      <Navbar />
+      <div className="flex flex-col items-center justify-end space-y-10 sm:mt-20 pt-16 lg:mt-16 lg:pt-8 pb-8">
         <div className="flex justify-center">
           <Image
             className="relative logo"
